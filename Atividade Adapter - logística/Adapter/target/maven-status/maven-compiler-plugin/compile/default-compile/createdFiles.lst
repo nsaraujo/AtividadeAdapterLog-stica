@@ -1,0 +1,6 @@
+com\mycompany\adapter\VehicleManager.class
+com\mycompany\adapter\IVehicleStorage.class
+com\mycompany\adapter\VehicleStorageAdapter.class
+com\mycompany\adapter\OldVehicleStorage.class
+com\mycompany\adapter\Vehicle.class
+com\mycompany\adapter\Adapter.class
